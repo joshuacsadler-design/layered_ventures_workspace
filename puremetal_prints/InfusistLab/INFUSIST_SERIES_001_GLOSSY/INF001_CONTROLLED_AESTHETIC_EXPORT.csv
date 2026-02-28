@@ -1,5 +1,0 @@
-SeriesID,SeriesName,Artwork,FileName,Printer,InkType,ColorSpace,BitDepth,Substrate,Temp,Dwell,Pressure,ICC_Profile,CurveVersion,MasterSize,TestSizePrimary,TestSizeValidation
-INF001,Controlled Aesthetic,Nocturne Steel,INF001_NOCTURNE_STEEL_v1.png,ET2400,Dye,sRGB,8,Glossy,400,60,Medium,sRGB_Default,v1,8x12,6x8,8x12
-INF001,Controlled Aesthetic,Fused Current,INF001_FUSED_CURRENT_v1.png,ET2400,Dye,sRGB,8,Glossy,400,60,Medium,sRGB_Default,v1,8x12,6x8,8x12
-INF001,Controlled Aesthetic,Human Fraction,INF001_HUMAN_FRACTION_v1.png,ET2400,Dye,sRGB,8,Glossy,400,60,Medium,sRGB_Default,v1,8x12,6x8,8x12
-INF001,Controlled Aesthetic,Combustion Vector,INF001_COMBUSTION_VECTOR_v1.png,ET2400,Dye,sRGB,8,Glossy,400,60,Medium,sRGB_Default,v1,8x12,6x8,8x12

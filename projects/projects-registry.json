@@ -1,0 +1,29 @@
+{
+  "version": "1.0.0",
+  "projects": [
+    {
+      "id": "lvcc",
+      "path": "projects/lvcc",
+      "type": "internal",
+      "enabled": true
+    },
+    {
+      "id": "puremetalprints",
+      "path": "projects/puremetalprints",
+      "type": "business",
+      "enabled": true
+    },
+    {
+      "id": "layered-studios",
+      "path": "projects/layered-studios",
+      "type": "internal",
+      "enabled": true
+    },
+    {
+      "id": "mechanick",
+      "path": "projects/mechanick",
+      "type": "business",
+      "enabled": true
+    }
+  ]
+}

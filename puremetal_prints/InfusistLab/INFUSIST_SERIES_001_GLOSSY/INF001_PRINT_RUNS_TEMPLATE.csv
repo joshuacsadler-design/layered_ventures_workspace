@@ -1,2 +1,0 @@
-RunID,SeriesID,Date,Operator,Printer,InkType,Substrate,PaperType,PrintSize,DriverQuality,Scaling,Mirror,Borderless,ICC_Profile,CurveVersion,TempF,DwellSec,Pressure,Humidity,AmbientTemp,Notes
-,INF001,,,ET2400,Dye,Glossy,Glossy,6x8,Best/High,100%,Yes,No,sRGB_Default,v1,400,60,Medium,,,

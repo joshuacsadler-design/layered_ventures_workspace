@@ -1,5 +1,0 @@
-SeriesID,Artwork,FileName,Printer,ColorSpace,BitDepth,Substrate,Temp,Dwell,Pressure,ICC_Profile,CurveVersion,ShadowScore,GradientScore,SkinScore,DetailScore,OverallScore,Notes
-INF001,Nocturne Steel,INF001_NOCTURNE_STEEL_v1.png,ET2400,sRGB,8,Speckled,400,60,Medium,sRGB_Default,v1,,,,,,
-INF001,Fused Current,INF001_FUSED_CURRENT_v1.png,ET2400,sRGB,8,Speckled,400,60,Medium,sRGB_Default,v1,,,,,,
-INF001,Human Fraction,INF001_HUMAN_FRACTION_v1.png,ET2400,sRGB,8,Speckled,400,60,Medium,sRGB_Default,v1,,,,,,
-INF001,Combustion Vector,INF001_COMBUSTION_VECTOR_v1.png,ET2400,sRGB,8,Speckled,400,60,Medium,sRGB_Default,v1,,,,,,

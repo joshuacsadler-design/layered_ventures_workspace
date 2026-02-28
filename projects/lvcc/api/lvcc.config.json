@@ -1,7 +1,0 @@
-{
-  "root": "C:/Users/greas/Documents/layered_ventures",
-  "ops_dir": "ops/ops",
-  "registry_path": "projects/projects-registry.json",
-  "static_ui_dir": "../ui",
-  "port": 3344
-}
